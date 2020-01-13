@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on A Hugo website</title>
+    <title>R on 拉拉的github</title>
     <link>/categories/r/</link>
-    <description>Recent content in R on A Hugo website</description>
+    <description>Recent content in R on 拉拉的github</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <language>zh</language>
+    <lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/2015/07/23/hello-r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Learncode 1</title>
+      <link>/2020/01/13/learncode-1/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2015/07/23/hello-r-markdown/</guid>
-      <description>R Markdowniris
-plot(iris$Sepal.Length~iris$Sepal.Width)</description>
+      <guid>/2020/01/13/learncode-1/</guid>
+      <description>Learned how to Post my Rmd blog in R
+tools -&amp;gt; Addins -&amp;gt; New Post -&amp;gt; Execute
+You can create a new Rmd document for the Post New Post Enter title, author and other information.
+Categories choose R,
+Format choose R Markdown,
+Click the Done button to see the generated Rmd document in the Post folder,and then you can edit it.</description>
     </item>
     
   </channel>
